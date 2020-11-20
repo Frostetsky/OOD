@@ -1,4 +1,4 @@
 # OOD
 ***Принципы и шаблоны объектно-ориентированного проектирования.***
 
-![Design Pattern](https://imgur.com/a/x2OdnaU)
+![Design Pattern](https://i.imgur.com/wv17Ssi.jpg)
